@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766237759580",
+    "project_id": "celerity-fe3d1",
+    "storage_bucket": "celerity-fe3d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766237759580:android:26b7b85fef362a1c3cae99",
+        "android_client_info": {
+          "package_name": "com.example.celerity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766237759580-is62e6ruu6gdtgv8etbmgj933eg95dg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-HVsgj8-DDgGn1EclSmyy02stjNRqpzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766237759580-is62e6ruu6gdtgv8etbmgj933eg95dg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
