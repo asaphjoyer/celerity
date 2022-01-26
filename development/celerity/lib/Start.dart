@@ -13,8 +13,10 @@ class Start extends StatelessWidget {
         title: Text('Home'),
         actions: [
           IconButton(
-              onPressed: () => FirebaseAuth.instance.signOut(),
-              icon: Icon(Icons.logout))
+              icon: Icon(Icons.logout),
+              onPressed: () {
+                FirebaseAuth.instance.signOut();
+              })
         ],
       ),
     );
